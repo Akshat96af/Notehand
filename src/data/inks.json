@@ -1,0 +1,170 @@
+[
+ {
+  "name": "Classic Deep Blue",
+  "value": "#000066",
+  "category": "ballpoint",
+  "description": "Default deep navy notebook ballpoint ink for school assignments & exams",
+  "badge": "Default",
+  "undertone": "Classic deep navy"
+ },
+ {
+  "name": "Classic Ballpoint Blue",
+  "value": "#1a3d82",
+  "category": "ballpoint",
+  "description": "Everyday Reynolds/Bic blue with crisp oil paste texture",
+  "badge": "Popular",
+  "undertone": "Cobalt oil-base"
+ },
+ {
+  "name": "Formal Exam Navy",
+  "value": "#13254c",
+  "category": "ballpoint",
+  "description": "Dense dark navy ballpoint used in formal assignments and exams",
+  "badge": "Exam",
+  "undertone": "Deep navy"
+ },
+ {
+  "name": "Carbon Ballpoint Black",
+  "value": "#212326",
+  "category": "ballpoint",
+  "description": "Crisp neutral charcoal-black ballpoint ink",
+  "badge": "Standard",
+  "undertone": "Graphite charcoal"
+ },
+ {
+  "name": "Correction Red",
+  "value": "#b91c1c",
+  "category": "ballpoint",
+  "description": "Teacher grading and margin annotation red",
+  "badge": "Heading",
+  "undertone": "Warm vermilion"
+ },
+ {
+  "name": "Notebook Green",
+  "value": "#156134",
+  "category": "ballpoint",
+  "description": "Classic dark green ballpoint for subheadings & bullets",
+  "badge": "Accent",
+  "undertone": "Forest green"
+ },
+ {
+  "name": "Pencil Gray",
+  "value": "#4d4d4d",
+  "category": "ballpoint",
+  "description": "Soft 2B graphite pencil sketch texture",
+  "badge": "Graphite",
+  "undertone": "Neutral graphite"
+ },
+ {
+  "name": "Deep Blue Gel",
+  "value": "#000066",
+  "category": "gel",
+  "description": "Ultra-pigmented, smooth opaque gel in classic deep navy",
+  "badge": "Default Gel",
+  "undertone": "Opaque deep navy"
+ },
+ {
+  "name": "Midnight Blue Gel",
+  "value": "#001f5c",
+  "category": "gel",
+  "description": "Deep, ultra-pigmented dark blue gel ink (Pilot G2 / Signo style)",
+  "badge": "Bestseller",
+  "undertone": "Ultra-pigment midnight"
+ },
+ {
+  "name": "Royal Vivid Blue Gel",
+  "value": "#0047cc",
+  "category": "gel",
+  "description": "Electric, buttery saturated gel blue with clean edges",
+  "badge": "Vivid",
+  "undertone": "Pure royal blue"
+ },
+ {
+  "name": "Jet Velvet Black Gel",
+  "value": "#0a0a0d",
+  "category": "gel",
+  "description": "Pure, velvety, 100% opaque jet black pigment that pops on paper",
+  "badge": "Jet Black",
+  "undertone": "Pure carbon black"
+ },
+ {
+  "name": "Crimson Red Gel",
+  "value": "#a30018",
+  "category": "gel",
+  "description": "Rich, juicy crimson gel with sharp non-bleed borders",
+  "badge": "Vibrant",
+  "undertone": "Deep ruby"
+ },
+ {
+  "name": "Emerald Green Gel",
+  "value": "#006837",
+  "category": "gel",
+  "description": "Jewel-toned emerald green gel with dense pigment deposit",
+  "badge": "Jewel",
+  "undertone": "Vibrant emerald"
+ },
+ {
+  "name": "Imperial Violet Gel",
+  "value": "#581c87",
+  "category": "gel",
+  "description": "Rich study-notes purple gel pen with smooth glide",
+  "badge": "Study Notes",
+  "undertone": "Amethyst purple"
+ },
+ {
+  "name": "Deep Navy Ink",
+  "value": "#000066",
+  "category": "ink",
+  "description": "Default rich liquid fountain dye with authentic paper fiber absorption & pooling",
+  "badge": "Default Dye",
+  "undertone": "Pure deep blue dye"
+ },
+ {
+  "name": "Parker Royal Blue",
+  "value": "#1d3b94",
+  "category": "ink",
+  "description": "World-famous washable fountain pen blue with subtle violet shading",
+  "badge": "Classic",
+  "undertone": "Washable dye blue"
+ },
+ {
+  "name": "Archival Blue-Black",
+  "value": "#142238",
+  "category": "ink",
+  "description": "Iron-gall blue-black dye with dramatic shading and capillary absorption",
+  "badge": "Iron Gall",
+  "undertone": "Deep blue-black"
+ },
+ {
+  "name": "Quink Jet Black",
+  "value": "#18181b",
+  "category": "ink",
+  "description": "Liquid fountain pen black that softly wicks into paper fibers",
+  "badge": "Fountain Black",
+  "undertone": "Liquid carbon"
+ },
+ {
+  "name": "Walnut Sepia",
+  "value": "#4a2e18",
+  "category": "ink",
+  "description": "Vintage calligraphic sepia brown with warm golden-amber shading",
+  "badge": "Vintage",
+  "undertone": "Golden sepia"
+ },
+ {
+  "name": "Oxblood Burgundy",
+  "value": "#5c1626",
+  "category": "ink",
+  "description": "Dark cherry fountain dye with rich wet pooling at stroke ends",
+  "badge": "Luxury",
+  "undertone": "Burgundy dye"
+ },
+ {
+  "name": "Peacock Teal",
+  "value": "#0f4c5c",
+  "category": "ink",
+  "description": "Sophisticated blue-green shading fountain ink (Iroshizuku style)",
+  "badge": "Shading",
+  "undertone": "Teal blue-green"
+ }
+]

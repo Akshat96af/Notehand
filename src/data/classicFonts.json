@@ -1,0 +1,104 @@
+[
+ {
+  "id": "cursive_real",
+  "name": "Cursive Real",
+  "file": "Cursive_real.ttf",
+  "category": "Cursive"
+ },
+ {
+  "id": "cursive_2",
+  "name": "Cursive 2",
+  "file": "Cursive_2.ttf",
+  "category": "Cursive"
+ },
+ {
+  "id": "cursive_3",
+  "name": "Cursive 3",
+  "file": "Cursive_3.ttf",
+  "category": "Cursive"
+ },
+ {
+  "id": "cursive_real_2",
+  "name": "Cursive Real 2",
+  "file": "QESamRoberts.ttf",
+  "category": "Cursive"
+ },
+ {
+  "id": "cursive_real_3",
+  "name": "Cursive Real 3",
+  "file": "QEScottWilliams.ttf",
+  "category": "Cursive"
+ },
+ {
+  "id": "darlington",
+  "name": "Darlington",
+  "file": "Darlington.ttf",
+  "category": "Cursive"
+ },
+ {
+  "id": "halimun",
+  "name": "Halimun",
+  "file": "Halimun.ttf",
+  "category": "Script"
+ },
+ {
+  "id": "southampton",
+  "name": "Southampton",
+  "file": "Southampton.ttf",
+  "category": "Script"
+ },
+ {
+  "id": "tomatoes",
+  "name": "Tomatoes",
+  "file": "Tomatoes.ttf",
+  "category": "Cursive"
+ },
+ {
+  "id": "handwritten_cursive",
+  "name": "Handwritten Cursive",
+  "file": "Handwritten_cursive.woff2",
+  "category": "Cursive"
+ },
+ {
+  "id": "handwritten_cursive_2",
+  "name": "Handwritten Cursive 2",
+  "file": "Handwritten_cursive2.woff2",
+  "category": "Cursive"
+ },
+ {
+  "id": "natural1",
+  "name": "Natural 1",
+  "file": "natural1.woff2",
+  "category": "Cursive"
+ },
+ {
+  "id": "gh_hughes",
+  "name": "GH Hughes",
+  "file": "QEGHHughes.ttf",
+  "category": "Print"
+ },
+ {
+  "id": "handwritten",
+  "name": "Handwritten",
+  "file": "handwritten.ttf",
+  "category": "Print"
+ },
+ {
+  "id": "jer",
+  "name": "JER",
+  "file": "QEJER.ttf",
+  "category": "Print"
+ },
+ {
+  "id": "kevin_knowles",
+  "name": "Kevin Knowles",
+  "file": "QEKevinKnowles.ttf",
+  "category": "Print"
+ },
+ {
+  "id": "philip_bean",
+  "name": "Philip Bean",
+  "file": "QEPhilipBean.ttf",
+  "category": "Print"
+ }
+]

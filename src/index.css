@@ -1,0 +1,219 @@
+/* Only scan app sources (reference/ holds huge minified bundles full of class names). */
+@import "tailwindcss" source("../src");
+
+/* `dark:` follows the theme attribute set by src/lib/theme.ts (system by default). */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* Tokens (claude/brand/BRAND.md). Light values here; dark values below swap the same names, so every
+   `bg-surface-*` / `text-surface-*` / `bg-panel` utility adapts without per-component dark classes. */
+@theme {
+  --color-brand-50: #eef4ff;
+  --color-brand-100: #d9e6ff;
+  --color-brand-200: #bcd2ff;
+  --color-brand-300: #8eb4ff;
+  --color-brand-400: #5a8bff;
+  --color-brand-500: #2f64f5;
+  --color-brand-600: #1a4bd8;
+  --color-brand-700: #163bb0;
+  --color-brand-800: #17348d;
+  --color-brand-900: #182f70;
+  --color-brand-950: #101d46;
+
+  --color-surface-50: #fafafa;
+  --color-surface-100: #f4f4f5;
+  --color-surface-200: #e4e4e7;
+  --color-surface-300: #d4d4d8;
+  --color-surface-400: #a1a1aa;
+  --color-surface-500: #71717a;
+  --color-surface-600: #52525b;
+  --color-surface-700: #3f3f46;
+  --color-surface-800: #27272a;
+  --color-surface-900: #18181b;
+  --color-surface-950: #09090b;
+
+  /* semantic surfaces */
+  --color-canvas: #f2f2f4;   /* app background behind the pages */
+  --color-panel: #ffffff;    /* sidebars, bars, cards */
+  --color-elevated: #ffffff; /* modals, popovers */
+  --color-snow: #ffffff;     /* always white (switch thumbs, drawing canvas) */
+  --color-night-900: #18181b; /* always dark (calibration, code) */
+  --color-night-950: #0b0b0d;
+
+  --color-highlight: #ffe066;
+
+  --shadow-pop: 0 1px 2px rgb(0 0 0 / 0.04), 0 12px 32px -12px rgb(0 0 0 / 0.18);
+  --shadow-sheet: 0 2px 6px rgb(0 0 0 / 0.04), 0 32px 80px -24px rgb(0 0 0 / 0.32);
+
+  --ease-out-soft: cubic-bezier(0.32, 0.72, 0, 1); /* iOS sheet curve */
+  --animate-fade-in: fade-in 0.22s var(--ease-out-soft);
+}
+
+:root { color-scheme: light; }
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --color-surface-50: #0b0b0d;
+  --color-surface-100: #1a1a1e;
+  --color-surface-200: #2a2a30;
+  --color-surface-300: #3a3a42;
+  --color-surface-400: #6e6e78;
+  --color-surface-500: #9a9aa4;
+  --color-surface-600: #b4b4bd;
+  --color-surface-700: #cfcfd6;
+  --color-surface-800: #e4e4e9;
+  --color-surface-900: #f4f4f6;
+  --color-surface-950: #ffffff;
+
+  --color-canvas: #08080a;
+  --color-panel: #141416;
+  --color-elevated: #1c1c20;
+
+  --color-brand-50: #151d33;
+  --color-brand-100: #1c2848;
+  --color-brand-200: #2a3c6a;
+  --color-brand-300: #3d5797;
+  --color-brand-400: #7aa0ff;
+  --color-brand-500: #5b8cff;
+  --color-brand-600: #3e78ff;
+  --color-brand-700: #8fb0ff;
+  --color-brand-800: #b3c9ff;
+  --color-brand-900: #d4e1ff;
+
+  --color-amber-50: #261d0b;
+  --color-amber-100: #33270d;
+  --color-amber-200: #4a3910;
+  --color-amber-300: #6b5113;
+  --color-amber-700: #f2c14e;
+  --color-amber-800: #f5cd6a;
+  --color-amber-900: #f8dc92;
+  --color-red-50: #2a1214;
+  --color-red-100: #3a1619;
+  --color-red-200: #5c2227;
+  --color-red-600: #ff6b6b;
+  --color-red-700: #ff8a8a;
+
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.5);
+  --shadow-md: 0 4px 10px -2px rgb(0 0 0 / 0.55);
+  --shadow-lg: 0 12px 24px -8px rgb(0 0 0 / 0.6);
+  --shadow-xl: 0 20px 40px -12px rgb(0 0 0 / 0.65);
+  --shadow-2xl: 0 32px 64px -16px rgb(0 0 0 / 0.75);
+  --shadow-pop: 0 0 0 1px rgb(255 255 255 / 0.06), 0 16px 40px -12px rgb(0 0 0 / 0.7);
+  --shadow-sheet: 0 0 0 1px rgb(255 255 255 / 0.07), 0 40px 100px -24px rgb(0 0 0 / 0.85);
+}
+
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes nh-backdrop-in { from { opacity: 0; } }
+@keyframes nh-backdrop-out { to { opacity: 0; } }
+@keyframes nh-sheet-in { from { opacity: 0; transform: translateY(12px) scale(0.97); } }
+@keyframes nh-sheet-out { to { opacity: 0; transform: translateY(6px) scale(0.985); } }
+@keyframes nh-pop-in { from { opacity: 0; transform: translateY(-4px) scale(0.98); } }
+@keyframes nh-pop-out { to { opacity: 0; transform: translateY(-2px) scale(0.99); } }
+
+@font-face {
+  font-family: "cursive_real";
+  src: url("/fonts/Cursive_real.ttf") format("truetype");
+  font-display: swap;
+}
+
+html, body, #root { height: 100%; }
+body {
+  background-color: var(--color-canvas);
+  color: var(--color-surface-900);
+  font-feature-settings: "cv11", "ss01";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.font-hand { font-family: "cursive_real", cursive; }
+
+/* thin scrollbars inside panels; none on horizontal tool rails */
+.scroll-thin { scrollbar-width: thin; scrollbar-color: var(--color-surface-300) transparent; }
+.scroll-none { scrollbar-width: none; }
+.scroll-none::-webkit-scrollbar { display: none; }
+
+input[type="range"] { accent-color: var(--color-brand-600); }
+input[type="checkbox"] { accent-color: var(--color-brand-600); }
+
+/* Modal / popover motion (ui.tsx sets data-state) */
+.nh-backdrop[data-state="open"] { animation: nh-backdrop-in 0.24s ease-out both; }
+.nh-backdrop[data-state="closed"] { animation: nh-backdrop-out 0.18s ease-in both; }
+.nh-sheet[data-state="open"] { animation: nh-sheet-in 0.34s var(--ease-out-soft) both; }
+.nh-sheet[data-state="closed"] { animation: nh-sheet-out 0.18s ease-in both; }
+.nh-pop[data-state="open"] { animation: nh-pop-in 0.2s var(--ease-out-soft) both; transform-origin: top left; }
+.nh-pop[data-state="closed"] { animation: nh-pop-out 0.12s ease-in both; }
+
+@layer components {
+  /* One primary style, used for the single most important action on a surface. */
+  .btn-primary {
+    background-color: var(--color-brand-600);
+    background-image: linear-gradient(180deg, rgb(255 255 255 / 0.12), rgb(255 255 255 / 0));
+    color: #fff;
+    box-shadow: inset 0 1px 0 rgb(255 255 255 / 0.18), 0 1px 2px rgb(0 0 0 / 0.12), 0 6px 16px -6px color-mix(in srgb, var(--color-brand-600) 55%, transparent);
+  }
+  .btn-primary:hover:not(:disabled) { background-color: color-mix(in srgb, var(--color-brand-600) 88%, black); }
+  [data-theme="dark"] .btn-primary:hover:not(:disabled) { background-color: color-mix(in srgb, var(--color-brand-600) 85%, white); }
+  /* Neutral bordered control (secondary actions, toolbar buttons). */
+  .btn-secondary {
+    background-color: var(--color-panel);
+    border: 1px solid var(--color-surface-200);
+    color: var(--color-surface-800);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 0.03);
+  }
+  .btn-secondary:hover:not(:disabled) { background-color: var(--color-surface-50); border-color: var(--color-surface-300); }
+  [data-theme="dark"] .btn-secondary:hover:not(:disabled) { background-color: var(--color-surface-100); }
+  /* Ink / colour swatch edge that stays visible on light and dark panels. */
+  .swatch { box-shadow: inset 0 0 0 1px rgb(0 0 0 / 0.12), 0 0 0 1px rgb(255 255 255 / 0.06); }
+}
+
+/* ---- polish ---- */
+@layer base {
+  h1, h2, h3 { text-wrap: balance; letter-spacing: -0.011em; }
+  p, li, figcaption { text-wrap: pretty; }
+  button {
+    transition-property: transform, color, background-color, border-color, box-shadow, opacity;
+    transition-duration: 160ms;
+    transition-timing-function: var(--ease-out-soft);
+  }
+  button:active:not(:disabled) { transform: scale(0.97); }
+  :focus-visible { outline: 2px solid var(--color-brand-500); outline-offset: 2px; }
+  ::selection { background: color-mix(in srgb, var(--color-brand-500) 28%, transparent); }
+}
+/* neutral inset outline so photo edges don't blur into the surface */
+.thumb { outline: 1px solid rgb(0 0 0 / 0.1); outline-offset: -1px; }
+[data-theme="dark"] .thumb { outline-color: rgb(255 255 255 / 0.08); }
+
+/* The page photo is content: in dark mode it is dimmed a touch so white paper doesn't glow (HIG Dark
+   Mode › "Soften the color of white backgrounds"). Screen only; exports are untouched. */
+[data-theme="dark"] .nh-page { filter: brightness(0.93); }
+/* Desk-lamp falloff behind the pages in dark mode. */
+[data-theme="dark"] .nh-desk { background-image: radial-gradient(ellipse 70% 45% at 50% 0%, rgb(255 236 200 / 0.045), transparent 70%); }
+
+/* ---- cinematic theme switch (src/lib/theme.ts) ----
+   The new theme is revealed as an expanding circle from the switch while the old one recedes and dims. */
+::view-transition-old(root), ::view-transition-new(root) { animation: none; mix-blend-mode: normal; }
+.nh-vt::view-transition-group(root) { animation-duration: 0.78s; }
+.nh-vt::view-transition-new(root) {
+  animation: nh-reveal 0.78s cubic-bezier(0.65, 0, 0.15, 1) both;
+}
+.nh-vt::view-transition-old(root) {
+  animation: nh-recede 0.78s cubic-bezier(0.65, 0, 0.15, 1) both;
+}
+@keyframes nh-reveal {
+  0% { clip-path: circle(0 at var(--vt-x, 50%) var(--vt-y, 0)); filter: brightness(1.5) blur(8px); }
+  55% { filter: brightness(1.04) blur(0); }
+  100% { clip-path: circle(var(--vt-r, 150vmax) at var(--vt-x, 50%) var(--vt-y, 0)); filter: none; }
+}
+@keyframes nh-recede {
+  to { transform: scale(0.965); filter: brightness(0.5) saturate(0.7); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 1ms !important; transition-duration: 1ms !important; }
+  button:active:not(:disabled) { transform: none; }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .backdrop-blur-md, .backdrop-blur-sm, .backdrop-blur-xl { backdrop-filter: none !important; }
+}

@@ -1,0 +1,927 @@
+[
+ {
+  "id": "multi-01",
+  "name": "Handify Multi 01",
+  "category": "multilingual",
+  "file": "handify-multi-01.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "latin-01",
+  "name": "Handify Latin 01",
+  "category": "latin",
+  "file": "handify-latin-01.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-02",
+  "name": "Handify Latin 02",
+  "category": "latin",
+  "file": "handify-latin-02.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-03",
+  "name": "Handify Latin 03",
+  "category": "latin",
+  "file": "handify-latin-03.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-04",
+  "name": "Handify Latin 04",
+  "category": "latin",
+  "file": "handify-latin-04.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-05",
+  "name": "Handify Latin 05",
+  "category": "latin",
+  "file": "handify-latin-05.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "multi-02",
+  "name": "Handify Multi 02",
+  "category": "multilingual",
+  "file": "handify-multi-02.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic"
+  ]
+ },
+ {
+  "id": "latin-06",
+  "name": "Handify Latin 06",
+  "category": "latin",
+  "file": "handify-latin-06.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-07",
+  "name": "Handify Latin 07",
+  "category": "latin",
+  "file": "handify-latin-07.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-08",
+  "name": "Handify Latin 08",
+  "category": "latin",
+  "file": "handify-latin-08.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-09",
+  "name": "Handify Latin 09",
+  "category": "latin",
+  "file": "handify-latin-09.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-10",
+  "name": "Handify Latin 10",
+  "category": "latin",
+  "file": "handify-latin-10.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-11",
+  "name": "Handify Latin 11",
+  "category": "latin",
+  "file": "handify-latin-11.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-12",
+  "name": "Handify Latin 12",
+  "category": "latin",
+  "file": "handify-latin-12.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "multi-03",
+  "name": "Handify Multi 03",
+  "category": "multilingual",
+  "file": "handify-multi-03.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "east-01",
+  "name": "Handify East 01",
+  "category": "east-asian",
+  "file": "handify-east-01.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek",
+   "hangul",
+   "hiragana",
+   "katakana"
+  ]
+ },
+ {
+  "id": "latin-13",
+  "name": "Handify Latin 13",
+  "category": "latin",
+  "file": "handify-latin-13.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "multi-04",
+  "name": "Handify Multi 04",
+  "category": "multilingual",
+  "file": "handify-multi-04.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "latin-14",
+  "name": "Handify Latin 14",
+  "category": "latin",
+  "file": "handify-latin-14.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-15",
+  "name": "Handify Latin 15",
+  "category": "latin",
+  "file": "handify-latin-15.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-16",
+  "name": "Handify Latin 16",
+  "category": "latin",
+  "file": "handify-latin-16.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-17",
+  "name": "Handify Latin 17",
+  "category": "latin",
+  "file": "handify-latin-17.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-18",
+  "name": "Handify Latin 18",
+  "category": "latin",
+  "file": "handify-latin-18.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-19",
+  "name": "Handify Latin 19",
+  "category": "latin",
+  "file": "handify-latin-19.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-20",
+  "name": "Handify Latin 20",
+  "category": "latin",
+  "file": "handify-latin-20.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-21",
+  "name": "Handify Latin 21",
+  "category": "latin",
+  "file": "handify-latin-21.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-22",
+  "name": "Handify Latin 22",
+  "category": "latin",
+  "file": "handify-latin-22.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-23",
+  "name": "Handify Latin 23",
+  "category": "latin",
+  "file": "handify-latin-23.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "multi-05",
+  "name": "Handify Multi 05",
+  "category": "multilingual",
+  "file": "handify-multi-05.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic"
+  ]
+ },
+ {
+  "id": "multi-06",
+  "name": "Handify Multi 06",
+  "category": "multilingual",
+  "file": "handify-multi-06.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "multi-07",
+  "name": "Handify Multi 07",
+  "category": "multilingual",
+  "file": "handify-multi-07.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "multi-08",
+  "name": "Handify Multi 08",
+  "category": "multilingual",
+  "file": "handify-multi-08.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "multi-09",
+  "name": "Handify Multi 09",
+  "category": "multilingual",
+  "file": "handify-multi-09.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "multi-10",
+  "name": "Handify Multi 10",
+  "category": "multilingual",
+  "file": "handify-multi-10.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "multi-11",
+  "name": "Handify Multi 11",
+  "category": "multilingual",
+  "file": "handify-multi-11.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "multi-12",
+  "name": "Handify Multi 12",
+  "category": "multilingual",
+  "file": "handify-multi-12.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic"
+  ]
+ },
+ {
+  "id": "multi-13",
+  "name": "Handify Multi 13",
+  "category": "multilingual",
+  "file": "handify-multi-13.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "multi-14",
+  "name": "Handify Multi 14",
+  "category": "multilingual",
+  "file": "handify-multi-14.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "multi-15",
+  "name": "Handify Multi 15",
+  "category": "multilingual",
+  "file": "handify-multi-15.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic"
+  ]
+ },
+ {
+  "id": "multi-16",
+  "name": "Handify Multi 16",
+  "category": "multilingual",
+  "file": "handify-multi-16.woff2",
+  "scripts": [
+   "cyrillic"
+  ]
+ },
+ {
+  "id": "multi-17",
+  "name": "Handify Multi 17",
+  "category": "multilingual",
+  "file": "handify-multi-17.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic"
+  ]
+ },
+ {
+  "id": "multi-18",
+  "name": "Handify Multi 18",
+  "category": "multilingual",
+  "file": "handify-multi-18.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "arabic-01",
+  "name": "Handify Arabic 01",
+  "category": "arabic",
+  "file": "handify-arabic-01.woff2",
+  "scripts": [
+   "latin",
+   "arabic"
+  ]
+ },
+ {
+  "id": "latin-24",
+  "name": "Handify Latin 24",
+  "category": "latin",
+  "file": "handify-latin-24.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-25",
+  "name": "Handify Latin 25",
+  "category": "latin",
+  "file": "handify-latin-25.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-26",
+  "name": "Handify Latin 26",
+  "category": "latin",
+  "file": "handify-latin-26.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-27",
+  "name": "Handify Latin 27",
+  "category": "latin",
+  "file": "handify-latin-27.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-28",
+  "name": "Handify Latin 28",
+  "category": "latin",
+  "file": "handify-latin-28.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-29",
+  "name": "Handify Latin 29",
+  "category": "latin",
+  "file": "handify-latin-29.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-30",
+  "name": "Handify Latin 30",
+  "category": "latin",
+  "file": "handify-latin-30.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-31",
+  "name": "Handify Latin 31",
+  "category": "latin",
+  "file": "handify-latin-31.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-32",
+  "name": "Handify Latin 32",
+  "category": "latin",
+  "file": "handify-latin-32.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-33",
+  "name": "Handify Latin 33",
+  "category": "latin",
+  "file": "handify-latin-33.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-34",
+  "name": "Handify Latin 34",
+  "category": "latin",
+  "file": "handify-latin-34.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-35",
+  "name": "Handify Latin 35",
+  "category": "latin",
+  "file": "handify-latin-35.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-36",
+  "name": "Handify Latin 36",
+  "category": "latin",
+  "file": "handify-latin-36.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-37",
+  "name": "Handify Latin 37",
+  "category": "latin",
+  "file": "handify-latin-37.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-38",
+  "name": "Handify Latin 38",
+  "category": "latin",
+  "file": "handify-latin-38.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-39",
+  "name": "Handify Latin 39",
+  "category": "latin",
+  "file": "handify-latin-39.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-40",
+  "name": "Handify Latin 40",
+  "category": "latin",
+  "file": "handify-latin-40.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-41",
+  "name": "Handify Latin 41",
+  "category": "latin",
+  "file": "handify-latin-41.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-42",
+  "name": "Handify Latin 42",
+  "category": "latin",
+  "file": "handify-latin-42.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-43",
+  "name": "Handify Latin 43",
+  "category": "latin",
+  "file": "handify-latin-43.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-44",
+  "name": "Handify Latin 44",
+  "category": "latin",
+  "file": "handify-latin-44.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-45",
+  "name": "Handify Latin 45",
+  "category": "latin",
+  "file": "handify-latin-45.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-46",
+  "name": "Handify Latin 46",
+  "category": "latin",
+  "file": "handify-latin-46.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-47",
+  "name": "Handify Latin 47",
+  "category": "latin",
+  "file": "handify-latin-47.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-48",
+  "name": "Handify Latin 48",
+  "category": "latin",
+  "file": "handify-latin-48.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-49",
+  "name": "Handify Latin 49",
+  "category": "latin",
+  "file": "handify-latin-49.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-50",
+  "name": "Handify Latin 50",
+  "category": "latin",
+  "file": "handify-latin-50.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-51",
+  "name": "Handify Latin 51",
+  "category": "latin",
+  "file": "handify-latin-51.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-52",
+  "name": "Handify Latin 52",
+  "category": "latin",
+  "file": "handify-latin-52.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-53",
+  "name": "Handify Latin 53",
+  "category": "latin",
+  "file": "handify-latin-53.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-54",
+  "name": "Handify Latin 54",
+  "category": "latin",
+  "file": "handify-latin-54.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-55",
+  "name": "Handify Latin 55",
+  "category": "latin",
+  "file": "handify-latin-55.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-56",
+  "name": "Handify Latin 56",
+  "category": "latin",
+  "file": "handify-latin-56.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-57",
+  "name": "Handify Latin 57",
+  "category": "latin",
+  "file": "handify-latin-57.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-58",
+  "name": "Handify Latin 58",
+  "category": "latin",
+  "file": "handify-latin-58.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-59",
+  "name": "Handify Latin 59",
+  "category": "latin",
+  "file": "handify-latin-59.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "latin-60",
+  "name": "Handify Latin 60",
+  "category": "latin",
+  "file": "handify-latin-60.woff2",
+  "scripts": [
+   "latin"
+  ]
+ },
+ {
+  "id": "multi-19",
+  "name": "Handify Multi 19",
+  "category": "multilingual",
+  "file": "handify-multi-19.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "east-02",
+  "name": "Handify East 02",
+  "category": "east-asian",
+  "file": "handify-east-02.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek",
+   "hangul",
+   "hiragana",
+   "katakana"
+  ]
+ },
+ {
+  "id": "east-03",
+  "name": "Handify East 03",
+  "category": "east-asian",
+  "file": "handify-east-03.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek",
+   "hangul",
+   "hiragana",
+   "katakana"
+  ]
+ },
+ {
+  "id": "east-04",
+  "name": "Handify East 04",
+  "category": "east-asian",
+  "file": "handify-east-04.woff2",
+  "scripts": [
+   "latin",
+   "hangul"
+  ]
+ },
+ {
+  "id": "east-05",
+  "name": "Handify East 05",
+  "category": "east-asian",
+  "file": "handify-east-05.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "devanagari-01",
+  "name": "Handify Devanagari 01",
+  "category": "devanagari",
+  "file": "handify-devanagari-01.woff2",
+  "scripts": [
+   "latin",
+   "devanagari"
+  ]
+ },
+ {
+  "id": "east-06",
+  "name": "Handify East 06",
+  "category": "east-asian",
+  "file": "handify-east-06.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "east-07",
+  "name": "Handify East 07",
+  "category": "east-asian",
+  "file": "handify-east-07.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "east-08",
+  "name": "Handify East 08",
+  "category": "east-asian",
+  "file": "handify-east-08.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek",
+   "hangul",
+   "hiragana",
+   "katakana"
+  ]
+ },
+ {
+  "id": "east-09",
+  "name": "Handify East 09",
+  "category": "east-asian",
+  "file": "handify-east-09.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek"
+  ]
+ },
+ {
+  "id": "devanagari-02",
+  "name": "Handify Devanagari 02",
+  "category": "devanagari",
+  "file": "handify-devanagari-02.woff2",
+  "scripts": [
+   "latin",
+   "devanagari"
+  ]
+ },
+ {
+  "id": "devanagari-03",
+  "name": "Handify Devanagari 03",
+  "category": "devanagari",
+  "file": "handify-devanagari-03.woff2",
+  "scripts": [
+   "devanagari"
+  ]
+ },
+ {
+  "id": "multi-20",
+  "name": "Handify Multi 20",
+  "category": "multilingual",
+  "file": "handify-multi-20.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek",
+   "devanagari"
+  ]
+ },
+ {
+  "id": "multi-21",
+  "name": "Handify Multi 21",
+  "category": "multilingual",
+  "file": "handify-multi-21.woff2",
+  "scripts": [
+   "latin",
+   "cyrillic",
+   "greek",
+   "devanagari"
+  ]
+ },
+ {
+  "id": "arabic-02",
+  "name": "Handify Arabic 02",
+  "category": "arabic",
+  "file": "handify-arabic-02.woff2",
+  "scripts": [
+   "latin",
+   "arabic"
+  ]
+ }
+]

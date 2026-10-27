@@ -1,0 +1,29 @@
+[
+ {
+  "id": "ballpoint",
+  "name": "Ball Point pen",
+  "label": "Ball Point",
+  "icon": "🖋️",
+  "tag": "Oil-Based",
+  "description": "Crisp oil-paste ink with natural roller pressure variation and zero fiber bleed",
+  "textureNote": "Classic everyday school, exam & notes pen"
+ },
+ {
+  "id": "gel",
+  "name": "Gel Pen",
+  "label": "Gel Pen",
+  "icon": "🖊️",
+  "tag": "Smooth Gel",
+  "description": "Rich, opaque, velvety flow with vibrant saturation and clean non-skip lines",
+  "textureNote": "Deep, buttery lines with rich pigment deposit"
+ },
+ {
+  "id": "ink",
+  "name": "Ink pen",
+  "label": "Ink Pen (Fountain)",
+  "icon": "✒️",
+  "tag": "Liquid Dye",
+  "description": "Water-based liquid dye that absorbs into paper fibers with authentic ink pooling & shading",
+  "textureNote": "Vintage capillary bleed & natural gradient tones"
+ }
+]

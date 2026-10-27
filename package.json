@@ -1,0 +1,41 @@
+{
+  "name": "notehand",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4173",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "mcp": "node mcp/server.mjs",
+    "mcp:smoke": "node mcp/smoke.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "jspdf": "^2.5.2",
+    "konva": "^9.3.18",
+    "lucide-react": "^0.468.0",
+    "mammoth": "^1.8.0",
+    "pdfjs-dist": "^4.10.38",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-konva": "^18.2.10",
+    "react-router-dom": "^6.28.1",
+    "sonner": "^1.7.4",
+    "ws": "^8.22.0",
+    "zod": "^4.6.7",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7",
+    "vitest": "^2.1.8"
+  }
+}

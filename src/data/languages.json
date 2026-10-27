@@ -1,0 +1,1209 @@
+[
+ {
+  "id": "hindi",
+  "name": "Hindi",
+  "nativeName": "हिन्दी",
+  "script": "devanagari",
+  "aliases": [
+   "hindi",
+   "हिंदी",
+   "हिन्दी",
+   "devanagari"
+  ],
+  "flag": "🇮🇳",
+  "samplePhrase": "नमस्ते, यह मेरी लिखावट है",
+  "popular": true
+ },
+ {
+  "id": "english",
+  "name": "English",
+  "nativeName": "English",
+  "script": "latin",
+  "aliases": [
+   "english",
+   "en",
+   "eng",
+   "ingilizce"
+  ],
+  "flag": "🇺🇸",
+  "samplePhrase": "Handwritten notes made simple",
+  "popular": true
+ },
+ {
+  "id": "spanish",
+  "name": "Spanish",
+  "nativeName": "Español",
+  "script": "latin",
+  "aliases": [
+   "spanish",
+   "espanol",
+   "español",
+   "castellano"
+  ],
+  "flag": "🇪🇸",
+  "samplePhrase": "Notas escritas a mano con estilo",
+  "popular": true
+ },
+ {
+  "id": "french",
+  "name": "French",
+  "nativeName": "Français",
+  "script": "latin",
+  "aliases": [
+   "french",
+   "francais",
+   "français"
+  ],
+  "flag": "🇫🇷",
+  "samplePhrase": "L’élégance de l’écriture manuscrite",
+  "popular": true
+ },
+ {
+  "id": "german",
+  "name": "German",
+  "nativeName": "Deutsch",
+  "script": "latin",
+  "aliases": [
+   "german",
+   "deutsch",
+   "allemand"
+  ],
+  "flag": "🇩🇪",
+  "samplePhrase": "Schöne handschriftliche Notizen",
+  "popular": true
+ },
+ {
+  "id": "indonesian",
+  "name": "Indonesian",
+  "nativeName": "Bahasa Indonesia",
+  "script": "latin",
+  "aliases": [
+   "indonesian",
+   "bahasa",
+   "bahasa indonesia"
+  ],
+  "flag": "🇮🇩",
+  "samplePhrase": "Catatan tulisan tangan yang indah",
+  "popular": true
+ },
+ {
+  "id": "russian",
+  "name": "Russian",
+  "nativeName": "Русский",
+  "script": "cyrillic",
+  "aliases": [
+   "russian",
+   "русский",
+   "ру",
+   "cyrillic"
+  ],
+  "flag": "🇷🇺",
+  "samplePhrase": "Красивые рукописные заметки",
+  "popular": true
+ },
+ {
+  "id": "ukrainian",
+  "name": "Ukrainian",
+  "nativeName": "Українська",
+  "script": "cyrillic",
+  "aliases": [
+   "ukrainian",
+   "українська",
+   "украинский"
+  ],
+  "flag": "🇺🇦",
+  "samplePhrase": "Гарні рукописні нотатки",
+  "popular": true
+ },
+ {
+  "id": "arabic",
+  "name": "Arabic",
+  "nativeName": "العربية",
+  "script": "arabic",
+  "aliases": [
+   "arabic",
+   "العربية",
+   "عربي",
+   "arab"
+  ],
+  "flag": "🇸🇦",
+  "samplePhrase": "ملاحظات بخط اليد الجميل",
+  "popular": true
+ },
+ {
+  "id": "persian",
+  "name": "Persian",
+  "nativeName": "فارسی",
+  "script": "arabic",
+  "aliases": [
+   "persian",
+   "farsi",
+   "فارسی",
+   "پارسی"
+  ],
+  "flag": "🇮🇷",
+  "samplePhrase": "یادداشت‌های دست‌نویس زیبا",
+  "popular": true
+ },
+ {
+  "id": "urdu",
+  "name": "Urdu",
+  "nativeName": "اردو",
+  "script": "arabic",
+  "aliases": [
+   "urdu",
+   "اردو"
+  ],
+  "flag": "🇵🇰",
+  "samplePhrase": "خوبصورت ہاتھ سے لکھی ہوئی تحریر",
+  "popular": true
+ },
+ {
+  "id": "greek",
+  "name": "Greek",
+  "nativeName": "Ελληνικά",
+  "script": "greek",
+  "aliases": [
+   "greek",
+   "ελληνικά",
+   "ellinika"
+  ],
+  "flag": "🇬🇷",
+  "samplePhrase": "Όμορφες χειρόγραφες σημειώσεις",
+  "popular": true
+ },
+ {
+  "id": "korean",
+  "name": "Korean",
+  "nativeName": "한국어",
+  "script": "hangul",
+  "aliases": [
+   "korean",
+   "한국어",
+   "hangeul",
+   "hangul"
+  ],
+  "flag": "🇰🇷",
+  "samplePhrase": "자연스러운 손글씨 노트",
+  "popular": true
+ },
+ {
+  "id": "japanese",
+  "name": "Japanese",
+  "nativeName": "日本語",
+  "script": "hiragana",
+  "aliases": [
+   "japanese",
+   "日本語",
+   "にほんご",
+   "nihongo",
+   "kana"
+  ],
+  "flag": "🇯🇵",
+  "samplePhrase": "美しい手書きノートを作成",
+  "popular": true
+ },
+ {
+  "id": "afrikaans",
+  "name": "Afrikaans",
+  "nativeName": "Afrikaans",
+  "script": "latin",
+  "aliases": [
+   "afrikaans"
+  ],
+  "flag": "🇿🇦",
+  "samplePhrase": "Mooi handgeskrewe notas"
+ },
+ {
+  "id": "albanian",
+  "name": "Albanian",
+  "nativeName": "Shqip",
+  "script": "latin",
+  "aliases": [
+   "albanian",
+   "shqip"
+  ],
+  "flag": "🇦🇱",
+  "samplePhrase": "Shënime të bukura me dorë"
+ },
+ {
+  "id": "belarusian",
+  "name": "Belarusian",
+  "nativeName": "Беларуская",
+  "script": "cyrillic",
+  "aliases": [
+   "belarusian",
+   "беларуская",
+   "белорусский"
+  ],
+  "flag": "🇧🇾",
+  "samplePhrase": "Прыгожыя рукапісныя нататкі"
+ },
+ {
+  "id": "bulgarian",
+  "name": "Bulgarian",
+  "nativeName": "Български",
+  "script": "cyrillic",
+  "aliases": [
+   "bulgarian",
+   "български",
+   "болгарский"
+  ],
+  "flag": "🇧🇬",
+  "samplePhrase": "Красиви ръкописни бележки"
+ },
+ {
+  "id": "croatian",
+  "name": "Croatian",
+  "nativeName": "Hrvatski",
+  "script": "latin",
+  "aliases": [
+   "croatian",
+   "hrvatski"
+  ],
+  "flag": "🇭🇷",
+  "samplePhrase": "Prekrasne rukopisne bilješke"
+ },
+ {
+  "id": "czech",
+  "name": "Czech",
+  "nativeName": "Čeština",
+  "script": "latin",
+  "aliases": [
+   "czech",
+   "čeština",
+   "cestina"
+  ],
+  "flag": "🇨🇿",
+  "samplePhrase": "Krásné ručně psané poznámky"
+ },
+ {
+  "id": "danish",
+  "name": "Danish",
+  "nativeName": "Dansk",
+  "script": "latin",
+  "aliases": [
+   "danish",
+   "dansk"
+  ],
+  "flag": "🇩🇰",
+  "samplePhrase": "Smukke håndskrevne noter"
+ },
+ {
+  "id": "dutch",
+  "name": "Dutch",
+  "nativeName": "Nederlands",
+  "script": "latin",
+  "aliases": [
+   "dutch",
+   "nederlands"
+  ],
+  "flag": "🇳🇱",
+  "samplePhrase": "Mooie handgeschreven notities"
+ },
+ {
+  "id": "estonian",
+  "name": "Estonian",
+  "nativeName": "Eesti",
+  "script": "latin",
+  "aliases": [
+   "estonian",
+   "eesti"
+  ],
+  "flag": "🇪🇪",
+  "samplePhrase": "Kaunid käsitsi kirjutatud märkmed"
+ },
+ {
+  "id": "finnish",
+  "name": "Finnish",
+  "nativeName": "Suomi",
+  "script": "latin",
+  "aliases": [
+   "finnish",
+   "suomi"
+  ],
+  "flag": "🇫🇮",
+  "samplePhrase": "Kauniit käsinkirjoitetut muistiinpanot"
+ },
+ {
+  "id": "hungarian",
+  "name": "Hungarian",
+  "nativeName": "Magyar",
+  "script": "latin",
+  "aliases": [
+   "hungarian",
+   "magyar"
+  ],
+  "flag": "🇭🇺",
+  "samplePhrase": "Gyönyörű kézzel írott jegyzetek"
+ },
+ {
+  "id": "italian",
+  "name": "Italian",
+  "nativeName": "Italiano",
+  "script": "latin",
+  "aliases": [
+   "italian",
+   "italiano"
+  ],
+  "flag": "🇮🇹",
+  "samplePhrase": "Splendide note scritte a mano"
+ },
+ {
+  "id": "marathi",
+  "name": "Marathi",
+  "nativeName": "मराठी",
+  "script": "devanagari",
+  "aliases": [
+   "marathi",
+   "मराठी"
+  ],
+  "flag": "🇮🇳",
+  "samplePhrase": "सुंदर हस्तलिखित टिपा तयार करा"
+ },
+ {
+  "id": "nepali",
+  "name": "Nepali",
+  "nativeName": "नेपाली",
+  "script": "devanagari",
+  "aliases": [
+   "nepali",
+   "नेपाली"
+  ],
+  "flag": "🇳🇵",
+  "samplePhrase": "सुन्दर हस्तलिखित नोटहरू बनाउनुहोस्"
+ },
+ {
+  "id": "norwegian",
+  "name": "Norwegian",
+  "nativeName": "Norsk",
+  "script": "latin",
+  "aliases": [
+   "norwegian",
+   "norsk"
+  ],
+  "flag": "🇳🇴",
+  "samplePhrase": "Vakre håndskrevne notater"
+ },
+ {
+  "id": "polish",
+  "name": "Polish",
+  "nativeName": "Polski",
+  "script": "latin",
+  "aliases": [
+   "polish",
+   "polski"
+  ],
+  "flag": "🇵🇱",
+  "samplePhrase": "Piękne odręczne notatki"
+ },
+ {
+  "id": "portuguese",
+  "name": "Portuguese",
+  "nativeName": "Português",
+  "script": "latin",
+  "aliases": [
+   "portuguese",
+   "português",
+   "portugues"
+  ],
+  "flag": "🇵🇹",
+  "samplePhrase": "Belas anotações manuscritas"
+ },
+ {
+  "id": "romanian",
+  "name": "Romanian",
+  "nativeName": "Română",
+  "script": "latin",
+  "aliases": [
+   "romanian",
+   "română",
+   "romana"
+  ],
+  "flag": "🇷🇴",
+  "samplePhrase": "Notițe frumoase scrise de mână"
+ },
+ {
+  "id": "sanskrit",
+  "name": "Sanskrit",
+  "nativeName": "संस्कृतम्",
+  "script": "devanagari",
+  "aliases": [
+   "sanskrit",
+   "संस्कृत",
+   "संस्कृतम्"
+  ],
+  "flag": "🇮🇳",
+  "samplePhrase": "सुन्दरं हस्तलेखं रचयतु"
+ },
+ {
+  "id": "serbian",
+  "name": "Serbian",
+  "nativeName": "Српски",
+  "script": "cyrillic",
+  "aliases": [
+   "serbian",
+   "српски",
+   "srpski"
+  ],
+  "flag": "🇷🇸",
+  "samplePhrase": "Прелепе рукописне белешке"
+ },
+ {
+  "id": "slovak",
+  "name": "Slovak",
+  "nativeName": "Slovenčina",
+  "script": "latin",
+  "aliases": [
+   "slovak",
+   "slovenčina",
+   "slovencina"
+  ],
+  "flag": "🇸🇰",
+  "samplePhrase": "Krásne ručne písané poznámky"
+ },
+ {
+  "id": "swedish",
+  "name": "Swedish",
+  "nativeName": "Svenska",
+  "script": "latin",
+  "aliases": [
+   "swedish",
+   "svenska"
+  ],
+  "flag": "🇸🇪",
+  "samplePhrase": "Vackra handskrivna anteckningar"
+ },
+ {
+  "id": "turkish",
+  "name": "Turkish",
+  "nativeName": "Türkçe",
+  "script": "latin",
+  "aliases": [
+   "turkish",
+   "türkçe",
+   "turkce"
+  ],
+  "flag": "🇹🇷",
+  "samplePhrase": "Güzel el yazısı notlar"
+ },
+ {
+  "id": "vietnamese",
+  "name": "Vietnamese",
+  "nativeName": "Tiếng Việt",
+  "script": "latin",
+  "aliases": [
+   "vietnamese",
+   "tiếng việt",
+   "tieng viet"
+  ],
+  "flag": "🇻🇳",
+  "samplePhrase": "Ghi chú viết tay tự nhiên và thanh lịch"
+ },
+ {
+  "id": "tagalog",
+  "name": "Tagalog (Filipino)",
+  "nativeName": "Tagalog",
+  "script": "latin",
+  "aliases": [
+   "tagalog",
+   "filipino",
+   "pilipino"
+  ],
+  "flag": "🇵🇭",
+  "samplePhrase": "Magagandang sulat-kamay na tala"
+ },
+ {
+  "id": "malay",
+  "name": "Malay",
+  "nativeName": "Bahasa Melayu",
+  "script": "latin",
+  "aliases": [
+   "malay",
+   "bahasa melayu"
+  ],
+  "flag": "🇲🇾",
+  "samplePhrase": "Nota tulisan tangan yang kemas"
+ },
+ {
+  "id": "swahili",
+  "name": "Swahili",
+  "nativeName": "Kiswahili",
+  "script": "latin",
+  "aliases": [
+   "swahili",
+   "kiswahili"
+  ],
+  "flag": "🇰🇪",
+  "samplePhrase": "Vidokezo maridadi vilivyoandikwa kwa mkono"
+ },
+ {
+  "id": "bhojpuri",
+  "name": "Bhojpuri",
+  "nativeName": "भोजपुरी",
+  "script": "devanagari",
+  "aliases": [
+   "bhojpuri",
+   "भोजपुरी"
+  ],
+  "flag": "🇮🇳",
+  "samplePhrase": "सुंदर हाथ से लिखल नोट"
+ },
+ {
+  "id": "maithili",
+  "name": "Maithili",
+  "nativeName": "मैथिली",
+  "script": "devanagari",
+  "aliases": [
+   "maithili",
+   "मैथिली"
+  ],
+  "flag": "🇮🇳",
+  "samplePhrase": "सुन्दर हस्तलिखित टिप्पणी"
+ },
+ {
+  "id": "konkani",
+  "name": "Konkani",
+  "nativeName": "कोंकणी",
+  "script": "devanagari",
+  "aliases": [
+   "konkani",
+   "कोंकणी"
+  ],
+  "flag": "🇮🇳",
+  "samplePhrase": "बरो हाताने बरयिल्लो टिपण"
+ },
+ {
+  "id": "pashto",
+  "name": "Pashto",
+  "nativeName": "پښتو",
+  "script": "arabic",
+  "aliases": [
+   "pashto",
+   "pakhto",
+   "پښتو"
+  ],
+  "flag": "🇦🇫",
+  "samplePhrase": "ښکلي لاسلیک شوي یادښتونه"
+ },
+ {
+  "id": "kurdish",
+  "name": "Kurdish (Sorani)",
+  "nativeName": "کوردی",
+  "script": "arabic",
+  "aliases": [
+   "kurdish",
+   "sorani",
+   "کوردی"
+  ],
+  "flag": "🇮🇶",
+  "samplePhrase": "تێبینییەکی جوان بە دەستنووس"
+ },
+ {
+  "id": "sindhi",
+  "name": "Sindhi",
+  "nativeName": "سنڌي",
+  "script": "arabic",
+  "aliases": [
+   "sindhi",
+   "سنڌي"
+  ],
+  "flag": "🇵🇰",
+  "samplePhrase": "سهڻي هٿ سان لکيل ياداشت"
+ },
+ {
+  "id": "kazakh",
+  "name": "Kazakh",
+  "nativeName": "Қазақша",
+  "script": "cyrillic",
+  "aliases": [
+   "kazakh",
+   "қазақша",
+   "казахский"
+  ],
+  "flag": "🇰🇿",
+  "samplePhrase": "Әдемі қолжазба жазбалар"
+ },
+ {
+  "id": "kyrgyz",
+  "name": "Kyrgyz",
+  "nativeName": "Кыргызча",
+  "script": "cyrillic",
+  "aliases": [
+   "kyrgyz",
+   "кыргызча"
+  ],
+  "flag": "🇰🇬",
+  "samplePhrase": "Кооз кол жазма жазуулар"
+ },
+ {
+  "id": "mongolian",
+  "name": "Mongolian",
+  "nativeName": "Монгол",
+  "script": "cyrillic",
+  "aliases": [
+   "mongolian",
+   "монгол"
+  ],
+  "flag": "🇲🇳",
+  "samplePhrase": "Сайхан гар бичмэл тэмдэглэл"
+ },
+ {
+  "id": "macedonian",
+  "name": "Macedonian",
+  "nativeName": "Македонски",
+  "script": "cyrillic",
+  "aliases": [
+   "macedonian",
+   "македонски"
+  ],
+  "flag": "🇲🇰",
+  "samplePhrase": "Убави ракописни белешки"
+ },
+ {
+  "id": "catalan",
+  "name": "Catalan",
+  "nativeName": "Català",
+  "script": "latin",
+  "aliases": [
+   "catalan",
+   "català",
+   "catala"
+  ],
+  "flag": "🇦🇩",
+  "samplePhrase": "Belles notes manuscrites"
+ },
+ {
+  "id": "basque",
+  "name": "Basque",
+  "nativeName": "Euskara",
+  "script": "latin",
+  "aliases": [
+   "basque",
+   "euskara"
+  ],
+  "flag": "🇪🇸",
+  "samplePhrase": "Eskuz idatzitako ohar ederrak"
+ },
+ {
+  "id": "galician",
+  "name": "Galician",
+  "nativeName": "Galego",
+  "script": "latin",
+  "aliases": [
+   "galician",
+   "galego"
+  ],
+  "flag": "🇪🇸",
+  "samplePhrase": "Fermosas notas manuscritas"
+ },
+ {
+  "id": "welsh",
+  "name": "Welsh",
+  "nativeName": "Cymraeg",
+  "script": "latin",
+  "aliases": [
+   "welsh",
+   "cymraeg"
+  ],
+  "flag": "🇬🇧",
+  "samplePhrase": "Nodiadau llawysgrifen hardd"
+ },
+ {
+  "id": "irish",
+  "name": "Irish (Gaeilge)",
+  "nativeName": "Gaeilge",
+  "script": "latin",
+  "aliases": [
+   "irish",
+   "gaeilge",
+   "gaelic"
+  ],
+  "flag": "🇮🇪",
+  "samplePhrase": "Nótaí lámhscríofa áille"
+ },
+ {
+  "id": "scots-gaelic",
+  "name": "Scottish Gaelic",
+  "nativeName": "Gàidhlig",
+  "script": "latin",
+  "aliases": [
+   "scottish gaelic",
+   "gàidhlig"
+  ],
+  "flag": "🇬🇧",
+  "samplePhrase": "Nòtaichean brèagha le làimh"
+ },
+ {
+  "id": "icelandic",
+  "name": "Icelandic",
+  "nativeName": "Íslenska",
+  "script": "latin",
+  "aliases": [
+   "icelandic",
+   "íslenska",
+   "islenska"
+  ],
+  "flag": "🇮🇸",
+  "samplePhrase": "Fallegar handskrifaðar glósur"
+ },
+ {
+  "id": "maltese",
+  "name": "Maltese",
+  "nativeName": "Malti",
+  "script": "latin",
+  "aliases": [
+   "maltese",
+   "malti"
+  ],
+  "flag": "🇲🇹",
+  "samplePhrase": "Noti sbieħ miktuba bl-idejn"
+ },
+ {
+  "id": "latvian",
+  "name": "Latvian",
+  "nativeName": "Latviešu",
+  "script": "latin",
+  "aliases": [
+   "latvian",
+   "latviešu",
+   "latviesu"
+  ],
+  "flag": "🇱🇻",
+  "samplePhrase": "Skaistas ar roku rakstītas piezīmes"
+ },
+ {
+  "id": "lithuanian",
+  "name": "Lithuanian",
+  "nativeName": "Lietuvių",
+  "script": "latin",
+  "aliases": [
+   "lithuanian",
+   "lietuvių",
+   "lietuviu"
+  ],
+  "flag": "🇱🇹",
+  "samplePhrase": "Gražūs ranka rašyti užrašai"
+ },
+ {
+  "id": "slovenian",
+  "name": "Slovenian",
+  "nativeName": "Slovenščina",
+  "script": "latin",
+  "aliases": [
+   "slovenian",
+   "slovenščina",
+   "slovenscina"
+  ],
+  "flag": "🇸🇮",
+  "samplePhrase": "Lepi ročno napisani zapiski"
+ },
+ {
+  "id": "bosnian",
+  "name": "Bosnian",
+  "nativeName": "Bosanski",
+  "script": "latin",
+  "aliases": [
+   "bosnian",
+   "bosanski"
+  ],
+  "flag": "🇧🇦",
+  "samplePhrase": "Prelijepe rukopisne bilješke"
+ },
+ {
+  "id": "luxembourgish",
+  "name": "Luxembourgish",
+  "nativeName": "Lëtzebuergesch",
+  "script": "latin",
+  "aliases": [
+   "luxembourgish",
+   "lëtzebuergesch"
+  ],
+  "flag": "🇱🇺",
+  "samplePhrase": "Schéi handgeschriwwen Notizen"
+ },
+ {
+  "id": "esperanto",
+  "name": "Esperanto",
+  "nativeName": "Esperanto",
+  "script": "latin",
+  "aliases": [
+   "esperanto"
+  ],
+  "flag": "🇪🇺",
+  "samplePhrase": "Belaj manskribitaj notoj"
+ },
+ {
+  "id": "latin-lang",
+  "name": "Latin (Classical)",
+  "nativeName": "Latina",
+  "script": "latin",
+  "aliases": [
+   "latin",
+   "latina"
+  ],
+  "flag": "🇻🇦",
+  "samplePhrase": "Pulchrae notae manu scriptae"
+ },
+ {
+  "id": "somali",
+  "name": "Somali",
+  "nativeName": "Soomaaliga",
+  "script": "latin",
+  "aliases": [
+   "somali",
+   "af-soomaali"
+  ],
+  "flag": "🇸🇴",
+  "samplePhrase": "Qoraallo qurux badan oo gacanta lagu qoray"
+ },
+ {
+  "id": "yoruba",
+  "name": "Yoruba",
+  "nativeName": "Èdè Yorùbá",
+  "script": "latin",
+  "aliases": [
+   "yoruba",
+   "yorùbá"
+  ],
+  "flag": "🇳🇬",
+  "samplePhrase": "Àwọn àkọsílẹ̀ àfọwọ́kọ tó lẹ́wà"
+ },
+ {
+  "id": "igbo",
+  "name": "Igbo",
+  "nativeName": "Asụsụ Igbo",
+  "script": "latin",
+  "aliases": [
+   "igbo",
+   "asụsụ igbo"
+  ],
+  "flag": "🇳🇬",
+  "samplePhrase": "Ihe edeturu n’aka mara mma"
+ },
+ {
+  "id": "zulu",
+  "name": "Zulu",
+  "nativeName": "isiZulu",
+  "script": "latin",
+  "aliases": [
+   "zulu",
+   "isizulu"
+  ],
+  "flag": "🇿🇦",
+  "samplePhrase": "Amanothi amahle abhalwe ngesandla"
+ },
+ {
+  "id": "xhosa",
+  "name": "Xhosa",
+  "nativeName": "isiXhosa",
+  "script": "latin",
+  "aliases": [
+   "xhosa",
+   "isixhosa"
+  ],
+  "flag": "🇿🇦",
+  "samplePhrase": "Amanqaku amahle abhalwe ngesandla"
+ },
+ {
+  "id": "haitian-creole",
+  "name": "Haitian Creole",
+  "nativeName": "Kreyòl Ayisyen",
+  "script": "latin",
+  "aliases": [
+   "haitian creole",
+   "kreyòl"
+  ],
+  "flag": "🇭🇹",
+  "samplePhrase": "Bèl nòt ekri alamen"
+ },
+ {
+  "id": "hawaiian",
+  "name": "Hawaiian",
+  "nativeName": "ʻŌlelo Hawaiʻi",
+  "script": "latin",
+  "aliases": [
+   "hawaiian",
+   "olelo hawaii"
+  ],
+  "flag": "🇺🇸",
+  "samplePhrase": "Nā memo i kākau lima ʻia me ka maikaʻi"
+ },
+ {
+  "id": "maori",
+  "name": "Māori",
+  "nativeName": "Te Reo Māori",
+  "script": "latin",
+  "aliases": [
+   "maori",
+   "māori",
+   "te reo"
+  ],
+  "flag": "🇳🇿",
+  "samplePhrase": "He tuhinga ā-ringa ataahua"
+ },
+ {
+  "id": "javanese",
+  "name": "Javanese (Latin)",
+  "nativeName": "Basa Jawa",
+  "script": "latin",
+  "aliases": [
+   "javanese",
+   "basa jawa"
+  ],
+  "flag": "🇮🇩",
+  "samplePhrase": "Cathetan tulisan tangan sing apik"
+ },
+ {
+  "id": "sundanese",
+  "name": "Sundanese",
+  "nativeName": "Basa Sunda",
+  "script": "latin",
+  "aliases": [
+   "sundanese",
+   "basa sunda"
+  ],
+  "flag": "🇮🇩",
+  "samplePhrase": "Catetan tulisan leungeun anu saé"
+ },
+ {
+  "id": "azerbaijani",
+  "name": "Azerbaijani",
+  "nativeName": "Azərbaycan",
+  "script": "latin",
+  "aliases": [
+   "azerbaijani",
+   "azərbaycan",
+   "azeri"
+  ],
+  "flag": "🇦🇿",
+  "samplePhrase": "Gözəl əlyazma qeydlər"
+ },
+ {
+  "id": "uzbek",
+  "name": "Uzbek (Latin)",
+  "nativeName": "Oʻzbekcha",
+  "script": "latin",
+  "aliases": [
+   "uzbek",
+   "oʻzbekcha"
+  ],
+  "flag": "🇺🇿",
+  "samplePhrase": "Chiroyli qoʻlyozma eslatmalar"
+ },
+ {
+  "id": "turkmen",
+  "name": "Turkmen",
+  "nativeName": "Türkmençe",
+  "script": "latin",
+  "aliases": [
+   "turkmen",
+   "türkmençe"
+  ],
+  "flag": "🇹🇲",
+  "samplePhrase": "Owadan el ýazgysy bellikler"
+ },
+ {
+  "id": "kurdish-kurmanji",
+  "name": "Kurdish (Kurmanji)",
+  "nativeName": "Kurmancî",
+  "script": "latin",
+  "aliases": [
+   "kurmanji",
+   "kurmancî"
+  ],
+  "flag": "🇮🇶",
+  "samplePhrase": "Nîşeyên destnivîs ên xweşik"
+ },
+ {
+  "id": "corsican",
+  "name": "Corsican",
+  "nativeName": "Corsu",
+  "script": "latin",
+  "aliases": [
+   "corsican",
+   "corsu"
+  ],
+  "flag": "🇫🇷",
+  "samplePhrase": "Belle note scritte à a manu"
+ },
+ {
+  "id": "occitan",
+  "name": "Occitan",
+  "nativeName": "Occitan",
+  "script": "latin",
+  "aliases": [
+   "occitan",
+   "lenga d'òc"
+  ],
+  "flag": "🇫🇷",
+  "samplePhrase": "Bèlas nòtas manuscritas"
+ },
+ {
+  "id": "breton",
+  "name": "Breton",
+  "nativeName": "Brezhoneg",
+  "script": "latin",
+  "aliases": [
+   "breton",
+   "brezhoneg"
+  ],
+  "flag": "🇫🇷",
+  "samplePhrase": "Notennoù kaer dornskrivet"
+ },
+ {
+  "id": "faroese",
+  "name": "Faroese",
+  "nativeName": "Føroyskt",
+  "script": "latin",
+  "aliases": [
+   "faroese",
+   "føroyskt"
+  ],
+  "flag": "🇫🇴",
+  "samplePhrase": "Vøkur hondskrivað notat"
+ },
+ {
+  "id": "greenlandic",
+  "name": "Greenlandic",
+  "nativeName": "Kalaallisut",
+  "script": "latin",
+  "aliases": [
+   "greenlandic",
+   "kalaallisut"
+  ],
+  "flag": "🇬🇱",
+  "samplePhrase": "Allattukkat kusanartut assammik allatat"
+ },
+ {
+  "id": "samoan",
+  "name": "Samoan",
+  "nativeName": "Gagana Sāmoa",
+  "script": "latin",
+  "aliases": [
+   "samoan",
+   "gagana samoa"
+  ],
+  "flag": "🇼🇸",
+  "samplePhrase": "O faʻamaumauga matagofie na tusilima"
+ },
+ {
+  "id": "tongan",
+  "name": "Tongan",
+  "nativeName": "Lea Fakatonga",
+  "script": "latin",
+  "aliases": [
+   "tongan",
+   "lea fakatonga"
+  ],
+  "flag": "🇹🇴",
+  "samplePhrase": "Ko e ngaahi fakamatala tohinima fakaʻofoʻofa"
+ },
+ {
+  "id": "fijian",
+  "name": "Fijian",
+  "nativeName": "Na Vosa Vakaviti",
+  "script": "latin",
+  "aliases": [
+   "fijian",
+   "vakaviti"
+  ],
+  "flag": "🇫🇯",
+  "samplePhrase": "Ai volavola totoka e vaka-liga"
+ },
+ {
+  "id": "quechua",
+  "name": "Quechua",
+  "nativeName": "Runasimi",
+  "script": "latin",
+  "aliases": [
+   "quechua",
+   "runasimi"
+  ],
+  "flag": "🇵🇪",
+  "samplePhrase": "Sumaq makiwan qillqasqa willakuykuna"
+ },
+ {
+  "id": "aymara",
+  "name": "Aymara",
+  "nativeName": "Aymar aru",
+  "script": "latin",
+  "aliases": [
+   "aymara",
+   "aymar aru"
+  ],
+  "flag": "🇧🇴",
+  "samplePhrase": "Amuyt’äwinaka amparampi qillqata"
+ },
+ {
+  "id": "guarani",
+  "name": "Guarani",
+  "nativeName": "Avañeʼẽ",
+  "script": "latin",
+  "aliases": [
+   "guarani",
+   "avañeʼẽ"
+  ],
+  "flag": "🇵🇾",
+  "samplePhrase": "Kuatiary porãite ojehaíva pópe"
+ },
+ {
+  "id": "nahuatl",
+  "name": "Nahuatl",
+  "nativeName": "Nāhuatl",
+  "script": "latin",
+  "aliases": [
+   "nahuatl",
+   "mexicano"
+  ],
+  "flag": "🇲🇽",
+  "samplePhrase": "Kualtsin tlahkuiloli ika mahkayotl"
+ },
+ {
+  "id": "malagasy",
+  "name": "Malagasy",
+  "nativeName": "Fiteny Malagasy",
+  "script": "latin",
+  "aliases": [
+   "malagasy"
+  ],
+  "flag": "🇲🇬",
+  "samplePhrase": "Fanamarihana kanto nosoratana tamin’ny tanana"
+ },
+ {
+  "id": "chichewa",
+  "name": "Chichewa (Nyanja)",
+  "nativeName": "Chichewa",
+  "script": "latin",
+  "aliases": [
+   "chichewa",
+   "nyanja"
+  ],
+  "flag": "🇲🇼",
+  "samplePhrase": "Zolemba zokongola zolembedwa pamanja"
+ },
+ {
+  "id": "shona",
+  "name": "Shona",
+  "nativeName": "chiShona",
+  "script": "latin",
+  "aliases": [
+   "shona",
+   "chishona"
+  ],
+  "flag": "🇿🇼",
+  "samplePhrase": "Zvinyorwa zvakanaka zvakanyorwa nemaoko"
+ },
+ {
+  "id": "hausa",
+  "name": "Hausa (Boko)",
+  "nativeName": "Harshen Hausa",
+  "script": "latin",
+  "aliases": [
+   "hausa",
+   "boko"
+  ],
+  "flag": "🇳🇬",
+  "samplePhrase": "Kyawawan rubuce-rubucen hannu"
+ }
+]
